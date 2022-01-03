@@ -2,9 +2,9 @@
 
 Con motivo de promover la educación digital, facilitar la visibilidad de oportunidades a compañeros, y a falta de un recurso similar para Latinoamérica, he compilado una lista de los principales bootcamps de programación para facilitar su cotización.
 
-Visita la tabla completa: []()
+Visita la tabla completa: [Bootcamps LATAM](https://bootcamps-latam.netlify.app)
 
-## Consideraciones 
+## Consideraciones
 
 1. Los precios se muestran en dólares estadounidenses (USD) a día del último commit de [bootcamps.js](src/scripts/bootcamps.js).
 2. Se consideran como de tiempo parcial a todos aquellos bootcamp que requieren una inversión de tiempo menor a seis horas diarias.
