@@ -123,7 +123,7 @@ export default [
     País: "México",
     Estado: "CDMX",
     Costo: 0,
-    Beca: null,
+    Beca: 100,
     Modalidad: "Tiempo completo",
     Duración: "12 semanas",
     "En línea": "Sí",

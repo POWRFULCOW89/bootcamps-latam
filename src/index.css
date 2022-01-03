@@ -26,3 +26,15 @@ td {
 .beca::after {
   content: "%";
 }
+
+#author {
+  font-size: 1em;
+  text-align: center;
+  color: gray;
+  padding: 1rem;
+}
+
+#author a {
+  text-decoration: none;
+  color: gray;
+}
