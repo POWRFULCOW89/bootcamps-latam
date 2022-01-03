@@ -2,7 +2,6 @@
   "name": "bootcamps-latam",
   "version": "1.0.0",
   "description": "Una lista exhaustiva de los bootcamps de programación disponibles en Latinoamérica.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx parcel build src/index.html"
