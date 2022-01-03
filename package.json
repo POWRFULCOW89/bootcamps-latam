@@ -1,0 +1,21 @@
+{
+  "name": "bootcamps-latam",
+  "version": "1.0.0",
+  "description": "Una lista exhaustiva de los bootcamps de programación disponibles en Latinoamérica.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/POWRFULCOW89/bootcamps-latam.git"
+  },
+  "keywords": ["netlify", "bootcamps", "programación", "programming", "bootcamp", "bootcamps-latam"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/POWRFULCOW89/bootcamps-latam/issues"
+  },
+  "homepage": "https://github.com/POWRFULCOW89/bootcamps-latam#readme"
+}
