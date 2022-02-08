@@ -1,4 +1,4 @@
-[
+export default [
   {
     Bootcamp: "4Geeks Academy",
     URL: "https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time",
