@@ -519,4 +519,17 @@ export default [
     "En línea": "Sí",
     Comentarios: "",
   },
+  {
+    Bootcamp: "Tripleten",
+    URL: "https://tripleten.com/es-col/",
+    Programa: "Full Stack Web",
+    País: "Internacional",
+    Estado: "",
+    Costo: 1000,
+    Beca: "",
+    Modalidad: "Tiempo completo o parcial",
+    Duración: "40 semanas",
+    "En línea": "Sí",
+    Comentarios: "",
+  },
 ];
