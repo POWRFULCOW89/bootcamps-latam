@@ -532,4 +532,17 @@ export default [
     "En línea": "Sí",
     Comentarios: "",
   },
+  {
+    Bootcamp: "Boolean",
+    URL: "https://boolean.cl/bootcamps",
+    Programa: "Full Stack JS | Python | Ruby",
+    País: "Chile",
+    Estado: "",
+    Costo: 2500,
+    Beca: "Crédito blando",
+    Modalidad: "Tiempo completo o parcial",
+    Duración: "12-24-48 semanas",
+    "En línea": "Sí",
+    Comentarios: "Metodología extreme programming. Máximo 12 participantes por instructor",
+  },
 ];
